@@ -2,7 +2,7 @@ This script creates or updates the Lambda function and prints its details in JSO
 Notes :
 --> Replace your_access_key_id, your_secret_access_key, YOUR_ACCOUNT_ID, and YourLambdaExecutionRole with your actual AWS credentials, account details, and IAM role name.
 
------------------------------------------------------------------------------------------- Explanation -----------------------------------------------------------------------------------
+------------------- Explanation --------------------------
 
 Lambda Function Code: The lambda_code variable contains the code for your Lambda function.
 
