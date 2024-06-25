@@ -1,4 +1,5 @@
 This script creates or updates the Lambda function and prints its details in JSON format, providing a structured output of your Lambda function configuration.
+
 Notes :
 --> Replace your_access_key_id, your_secret_access_key, YOUR_ACCOUNT_ID, and YourLambdaExecutionRole with your actual AWS credentials, account details, and IAM role name.
 
